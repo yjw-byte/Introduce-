@@ -73,6 +73,7 @@
 
 ---
 
+
 ### 🔧 What I'm Currently Playing With
 - stm32 embedded projects
 - Python automation scripts
@@ -80,3 +81,6 @@
 
 ### 💭 Random Thought of the Day
 > Every bug is just a feature waiting to be discovered 🐛✨
+
+
+
