@@ -59,8 +59,6 @@ if (tired) break;
 
 ---
 
-### 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=yjw-byte&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔧 What I'm Currently Playing With
 - C language embedded projects
