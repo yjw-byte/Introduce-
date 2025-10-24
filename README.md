@@ -12,14 +12,10 @@
 ## 🛠️ My Focus Areas
 
 ### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![My Skills](https://skillicons.dev/icons?i=c,python&perline=10)
 
 ### Favorite IDEs & Editors
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Keil](https://img.shields.io/badge/Keil-0091BD?style=for-the-badge&logo=keil&logoColor=white)
-![AI IDE](https://img.shields.io/badge/AI_IDE-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=clion,vscode,idea&perline=10)
 
 ### Learning Journey
 - 🚀 Taking it slow and steady with C language
@@ -28,6 +24,8 @@
 - 📚 Believe that learning should be enjoyable, not stressful
 
 ## 🌟 Fun Stuff
+
+### My Coding Philosophy
 
 ### My Coding Philosophy
 while (alive) {
