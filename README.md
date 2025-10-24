@@ -52,4 +52,4 @@ Hello! I'm yanjiawen, an ordinary technology enthusiast, always learning && grow
 
 [![roadmap.sh](https://roadmap.sh/card/tall/68a1c38cdb704a26333e92d8?variant=dark)](https://roadmap.sh)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minsecrus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yjw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true)
