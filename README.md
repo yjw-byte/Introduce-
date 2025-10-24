@@ -46,9 +46,9 @@ Hello! I'm yanjiawen, an ordinary technology enthusiast, always learning && grow
 
   ![My Skills](https://skillicons.dev/icons?i=github,stackoverflow,discord,twitter,instagram&perline=10)
 
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minsecrus&bg_color=010b00&color=99ffb7&line=e1fff1&point=bfffc2&area=true&hide_border=true)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yjw-byte&bg_color=010b00&color=99ffb7&line=e1fff1&point=bfffc2&area=true&hide_border=true)
 
-![a](https://github-readme-stats.vercel.app/api/top-langs/?username=Minsecrus&show_icons=true&theme=tokyonight)
+![a](https://github-readme-stats.vercel.app/api/top-langs/?username=yjw-byte&show_icons=true&theme=tokyonight)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/68a1c38cdb704a26333e92d8?variant=dark)](https://roadmap.sh)
 
