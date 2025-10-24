@@ -74,7 +74,7 @@
 ---
 
 ### 🔧 What I'm Currently Playing With
-- C language embedded projects
+- stm32 embedded projects
 - Python automation scripts
 - Exploring AI-assisted coding (because free tools are awesome!)
 
