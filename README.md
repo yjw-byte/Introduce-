@@ -4,7 +4,7 @@ Hello! I'm yanjiawen, an ordinary technology enthusiast, always learning && grow
 
 - I love exploring programming languages.
 
-  ![My Skills](https://skillicons.dev/icons?i=c,zig,cpp,cs,java,scala,py,rust,go,kotlin,dart,lua,ruby,perl,haskell&perline=10)
+  ![My Skills](https://skillicons.dev/icons?i=c,zig,cpp,cs,haskell&perline=10)
 
 - I like to use front-end technologies to build beautiful and efficient web pages。
 
