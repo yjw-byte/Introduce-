@@ -1,6 +1,6 @@
 # yanjiawen
 
-Hello! I'm Minsecrus, an ordinary technology enthusiast, always learning && growing.
+Hello! I'm yanjiawen, an ordinary technology enthusiast, always learning && growing.
 
 - I love exploring programming languages.
 
