@@ -1,55 +1,73 @@
-# yanjiawen
+# 👋 Hello! I'm yanjiawen (yjw-byte)
 
-Hello! I'm yanjiawen, an ordinary technology enthusiast, always learning && growing.
+&gt; A leisurely learner from 梧州学院, passionate about C and Python programming 💻
 
-- I love exploring programming languages.
+## 🎯 About Me
 
-  ![My Skills](https://skillicons.dev/icons?i=c,zig,cpp,cs,haskell&perline=10)
+- 🔭 Always learning && growing at my own pace
+- 🌱 Love exploring programming languages (mainly C & Python)
+- 😄 Enjoys a relaxed approach to coding and learning
+- ⚡ Fun fact: I believe good code is like good tea - it needs time to brew
 
-- I like to use front-end technologies to build beautiful and efficient web pages。
+## 🛠️ My Focus Areas
 
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,remix,angular,svelte,lit,tailwind,vite,npm,pnpm,yarn,bun,wasm,figma&perline=10)
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- I'm focused on backend performance.
+### Favorite IDEs & Editors
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil-0091BD?style=for-the-badge&logo=keil&logoColor=white)
+![AI IDE](https://img.shields.io/badge/AI_IDE-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 
-  ![My Skills](https://skillicons.dev/icons?i=spring,dotnet,flask,fastapi,django,rails,actix,rocket,redis,rabbitmq,jenkins,kubernetes,mysql,sqlite,mongodb,postgres&perline=10)
+### Learning Journey
+- 🚀 Taking it slow and steady with C language
+- 🐍 Python enthusiast (because why make life harder?)
+- 🎮 Casual Windows user who loves PowerShell
+- 📚 Believe that learning should be enjoyable, not stressful
 
-- I'm passionate about cross-platform desktop application development.
+## 🌟 Fun Stuff
 
-  ![My Skills](https://skillicons.dev/icons?i=qt,electron,tauri,flutter&perline=10)
+### My Coding Philosophy
+while (alive) {
+code();
+drink_tea();
+if (tired) break;
+}
 
-- I'm trying to get into embedded development.
+### Current Status
+- 😊 Learning C and Python at my own pace
+- 🏃‍♂️ Not chasing trends, just enjoying the journey
+- 🎵 Listening to music while coding (highly recommended!)
 
-  ![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,ros&perline=10)
+## 📊 GitHub Stats
 
-- I am interested in the field of machine learning (ML) and computer vision (CV).
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yjw-byte&bg_color=1e1e2e&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true)
 
-  ![My Skills](https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,sklearn,opencv&perline=10)
-
-- Various tools make my development workflow more convenient and efficient.
-
-  ![My Skills](https://skillicons.dev/icons?i=maven,gradle,cmake,postman,git,githubactions&perline=10)
-
-- I am curious and try various IDEs and Editors.
-
-  ![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,clion,webstorm,rider,androidstudio&perline=10)
-
-- I am willing to share my ideas and knowledge by writing tutorials.
-
-  ![My Skills](https://skillicons.dev/icons?i=md,latex,obsidian&perline=10)
-
-- I'm a dedicated Windows user. Say important things three times.
-
-  ![My Skills](https://skillicons.dev/icons?i=windows,windows,windows,powershell,powershell,powershell&perline=10)
-
-- I am active on these online platforms.
-
-  ![My Skills](https://skillicons.dev/icons?i=github,stackoverflow,discord,twitter,instagram&perline=10)
-
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yjw-byte&bg_color=010b00&color=99ffb7&line=e1fff1&point=bfffc2&area=true&hide_border=true)
-
-![a](https://github-readme-stats.vercel.app/api/top-langs/?username=yjw-byte&show_icons=true&theme=tokyonight)
-
-[![roadmap.sh](https://roadmap.sh/card/tall/68a1c38cdb704a26333e92d8?variant=dark)](https://roadmap.sh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjw-byte&layout=compact&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yjw-byte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true)
+
+## 🤝 Let's Connect
+
+- 📧 Feel free to reach out for casual tech discussions
+- 🎯 Always open to learning from others
+- ☕ Coffee and code conversations welcome!
+
+---
+
+> "Code as if you'll be interrupted by a tea break" - yanjiawen 😄
+
+---
+
+### 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=yjw-byte&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔧 What I'm Currently Playing With
+- C language embedded projects
+- Python automation scripts
+- Exploring AI-assisted coding (because free tools are awesome!)
+
+### 💭 Random Thought of the Day
+> Every bug is just a feature waiting to be discovered 🐛✨
