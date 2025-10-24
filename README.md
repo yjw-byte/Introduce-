@@ -26,13 +26,27 @@
 ## 🌟 Fun Stuff
 
 ### My Coding Philosophy
-
-### My Coding Philosophy
-while (alive) {
-code();
-drink_tea();
-if (tired) break;
-}
+<!-- 直接粘，可改 fill 颜色 -->
+<p align="center">
+  <svg width="420" height="120" viewBox="0 0 420 120">
+    <!-- 终端外框 -->
+    <rect x="10" y="10" width="400" height="100" rx="8" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+    <!-- 代码行 -->
+    <text x="30" y="40" fill="#f97583" font-family="Fira Code" font-size="18">while (alive) {</text>
+    <text x="50" y="65" fill="#79c0ff" font-family="Fira Code" font-size="18">code();</text>
+    <!-- 茶杯图标 -->
+    <g transform="translate(140,53)">
+      <path d="M2 8h12v4H2zM18 10a4 4 0 0 1-4 4H2" stroke="#ffa657" stroke-width="2" fill="none"/>
+      <path d="M6 4c0-4 8-4 8 0" stroke="#ffa657" stroke-width="2" fill="none"/>
+      <!-- 热气 -->
+      <path d="M8 0c0-2 2-2 2 0M12-1c0-2 2-2 2 0" stroke="#ffa657" stroke-width="1.5" stroke-linecap="round">
+        <animate attributeName="y" values="0;-3;0" dur="1.2s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <text x="50" y="90" fill="#79c0ff" font-family="Fira Code" font-size="18">if (tired) break;</text>
+    <text x="30" y="110" fill="#f97583" font-family="Fira Code" font-size="18">}</text>
+  </svg>
+</p>
 
 ### Current Status
 - 😊 Learning C and Python at my own pace
@@ -58,7 +72,6 @@ if (tired) break;
 > "Code as if you'll be interrupted by a tea break" - yanjiawen 😄
 
 ---
-
 
 ### 🔧 What I'm Currently Playing With
 - C language embedded projects
